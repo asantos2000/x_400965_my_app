@@ -1,0 +1,18 @@
+{
+  "category": "x_400965_my_app_table",
+  "maximum_digits": 7,
+  "number": 1000,
+  "prefix": "MYA",
+  "sys_class_name": "sys_number",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-02 14:15:04",
+  "sys_id": "f12d1bcbdbe7f3006a6ad001cf961990",
+  "sys_mod_count": 0,
+  "sys_name": "MYA",
+  "sys_package": "d92d1bcbdbe7f3006a6ad001cf961942",
+  "sys_policy": null,
+  "sys_scope": "d92d1bcbdbe7f3006a6ad001cf961942",
+  "sys_update_name": "sys_number_f12d1bcbdbe7f3006a6ad001cf961990",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-02 14:15:04"
+}

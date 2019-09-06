@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": null,
+  "field": "sys_created_on",
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "my_script",
+  "order": null,
+  "script": {
+    "____see": "sn/my app/Client Script/x_400965_my_app_table/active_true/my_script.js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-02 16:04:06",
+  "sys_id": "cde57b8fdb2bf3006a6ad001cf96194a",
+  "sys_mod_count": 1,
+  "sys_name": "my_script",
+  "sys_package": "d92d1bcbdbe7f3006a6ad001cf961942",
+  "sys_policy": null,
+  "sys_scope": "d92d1bcbdbe7f3006a6ad001cf961942",
+  "sys_update_name": "sys_script_client_cde57b8fdb2bf3006a6ad001cf96194a",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-02 18:16:22",
+  "table": "x_400965_my_app_table",
+  "type": "onSubmit",
+  "ui_type": 0,
+  "view": null
+}

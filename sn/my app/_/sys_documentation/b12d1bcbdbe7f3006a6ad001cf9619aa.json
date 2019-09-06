@@ -1,0 +1,23 @@
+{
+  "element": "number",
+  "help": null,
+  "hint": null,
+  "label": "Number",
+  "language": "en",
+  "name": "x_400965_my_app_table",
+  "plural": "Numbers",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-02 14:15:05",
+  "sys_id": "b12d1bcbdbe7f3006a6ad001cf9619aa",
+  "sys_mod_count": 0,
+  "sys_name": "Number",
+  "sys_package": "d92d1bcbdbe7f3006a6ad001cf961942",
+  "sys_policy": null,
+  "sys_scope": "d92d1bcbdbe7f3006a6ad001cf961942",
+  "sys_update_name": "sys_documentation_x_400965_my_app_table_number_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-02 14:15:05",
+  "url": null,
+  "url_target": null
+}

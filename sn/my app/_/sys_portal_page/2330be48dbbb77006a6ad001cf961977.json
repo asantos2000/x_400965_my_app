@@ -1,0 +1,23 @@
+{
+  "layout": "4127db33d7111100f2d224837e610336",
+  "order": null,
+  "read_roles": null,
+  "related_items_node": null,
+  "roles": null,
+  "selectable": false,
+  "sys_class_name": "sys_portal_page",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-05 13:32:47",
+  "sys_id": "2330be48dbbb77006a6ad001cf961977",
+  "sys_mod_count": 4,
+  "sys_name": "CI/CD Example V3 - DEV",
+  "sys_package": null,
+  "sys_policy": null,
+  "sys_scope": "d92d1bcbdbe7f3006a6ad001cf961942",
+  "sys_update_name": null,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-05 17:37:26",
+  "title": "CI/CD Example V3 - DEV",
+  "user": "6816f79cc0a8016401c5a33be04be441",
+  "view": null
+}

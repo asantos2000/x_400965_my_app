@@ -1,0 +1,16 @@
+{
+  "contains": "e8c7928bdbb10340a08cf2b6af9619fc",
+  "role": "292d1bcbdbe7f3006a6ad001cf961951",
+  "sys_class_name": "sys_user_role_contains",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-02 14:56:26",
+  "sys_id": "739627cbdbe7f3006a6ad001cf961929",
+  "sys_mod_count": 0,
+  "sys_name": "uxsyncnow_user.x_400965_my_app.user",
+  "sys_package": "d92d1bcbdbe7f3006a6ad001cf961942",
+  "sys_policy": null,
+  "sys_scope": "d92d1bcbdbe7f3006a6ad001cf961942",
+  "sys_update_name": "sys_user_role_contains_739627cbdbe7f3006a6ad001cf961929",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-02 14:56:26"
+}
